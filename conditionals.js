@@ -11,3 +11,4 @@ let cold = true
 
 let sandals = cold ? 'It is too cold for sandals': 'Break out the flippy floppies'
 console.log(sandals)
+

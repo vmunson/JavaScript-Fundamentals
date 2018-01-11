@@ -5,3 +5,5 @@ console.log(fruits)
 for(fruit of fruits){
     console.log(fruit)
 }
+
+let cars = ['dodge', 'fiat', 'honda', 'audi']
